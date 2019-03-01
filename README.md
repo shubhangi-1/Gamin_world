@@ -1,2 +1,2 @@
 # 2048
-Game 2048 implementation in Java
+Game 2048 implementation in Java.
